@@ -162,6 +162,12 @@ PrefabInstance:
       propertyPath: m_Name
       value: PointOfView
       objectReference: {fileID: 0}
+    - target: {fileID: 2711942448586449379, guid: cbb4c54336ddf2747982e31e783b90d1,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 8450355858790199478, guid: fd39247de77a0684781664c274ab53aa,
+        type: 3}
     - target: {fileID: 7512877475067486347, guid: cbb4c54336ddf2747982e31e783b90d1,
         type: 3}
       propertyPath: m_RootOrder
